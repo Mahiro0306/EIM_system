@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>mainbg.jpg</file>
+        <file>incon.png</file>
+        <file>selectbg.jpg</file>
+        <file>newbg.jpg</file>
+        <file>fixbg.png</file>
+        <file>systembg.png</file>
+        <file>delbg.jpg</file>
+    </qresource>
+</RCC>
